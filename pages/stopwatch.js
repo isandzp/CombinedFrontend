@@ -113,7 +113,7 @@ function StopWatch() {
            `}
           </style>
           <Sidenav></Sidenav>
-            <center><Cards></Cards></center>
+            <center><Cards name="sandeep" code="1234"/></center>
      <center><div className="container" > 
     <div className="stop-watch">
       <Timer time={time} />
